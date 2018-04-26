@@ -106,7 +106,9 @@ public class BarChartActivity extends DemoBase implements OnSeekBarChangeListene
         l.setPosition(LegendPosition.BELOW_CHART_LEFT);
         l.setFormSize(8f);
         l.setEntrySpace(4f);
-        
+
+
+
 //        mChart.setDrawLegend(false);
     }
 
