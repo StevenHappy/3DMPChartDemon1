@@ -27,7 +27,7 @@ import java.util.ArrayList;
 
 ///aaaaaa
 
-
+//bbbb
 public class BarChartActivity extends DemoBase implements OnSeekBarChangeListener {
 
     private BarChart mChart;
