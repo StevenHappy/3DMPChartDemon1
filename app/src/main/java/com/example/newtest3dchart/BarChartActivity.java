@@ -30,6 +30,8 @@ import java.util.ArrayList;
 //bbbb
 
 ///ccc
+
+//ee
 public class BarChartActivity extends DemoBase implements OnSeekBarChangeListener {
 
     private BarChart mChart;
