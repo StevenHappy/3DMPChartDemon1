@@ -26,6 +26,8 @@ import com.github.mikephil.charting.utils.YLabels.YLabelPosition;
 import java.util.ArrayList;
 
 ///aaaaaa
+
+
 public class BarChartActivity extends DemoBase implements OnSeekBarChangeListener {
 
     private BarChart mChart;
